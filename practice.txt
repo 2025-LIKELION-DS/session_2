@@ -1,4 +1,5 @@
 [2차 세션] Git Branch 협업 & Github Tip
 
+- 강의 날짜: 3/17
 - 이름:
 - 파트:
